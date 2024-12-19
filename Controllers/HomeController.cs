@@ -30,7 +30,7 @@ public class HomeController : Controller
     }
 
     // 新增的 NO409110035 Action 方法
-    public IActionResult NO409110035()
+    public IActionResult NO123()
     {
         ViewData["Number"] = "123";
         ViewData["Name"] = "Cian";
