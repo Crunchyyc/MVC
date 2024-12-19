@@ -4,7 +4,7 @@
     <TargetFramework>net9.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>_409110035MVC</RootNamespace>
+    <RootNamespace>Byul's little moo</RootNamespace>
   </PropertyGroup>
 
 </Project>
